@@ -1,0 +1,46 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: #8eb1e5;
+  text-align: center;
+  padding: 40px;
+}
+
+h1 {
+  margin-bottom: 20px;
+}
+
+
+input {
+  padding: 8px;
+  margin-top: 10px;
+  width: 180px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  
+}
+
+button {
+  padding: 8px 12px;
+  margin-left: 5px;
+  border: none;
+  background-color: #150f73;
+  color: white;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #2d17bd;
+}
+
+#message {
+  margin-top: 15px;
+  font-weight: bold;
+}
+
+#dogImage {
+  margin-top: 20px;
+  max-width: 400px;
+  width: 100%;
+  border-radius: 3px;
+}
